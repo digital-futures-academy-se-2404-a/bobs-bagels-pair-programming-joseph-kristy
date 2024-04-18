@@ -1,1 +1,0 @@
-export const assertEqualArray = (expected, actual) => JSON.stringify(actual) === JSON.stringify(expected);
